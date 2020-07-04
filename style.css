@@ -111,3 +111,11 @@ a:hover{
     color: #fff;
     font-size: 12px;
 }
+@media( max-width: 600px){
+    .half-width{
+        width: 95%;
+        margin: 0;
+        padding: 0;
+        margin: 2%;
+    }
+}
